@@ -1,3 +1,4 @@
+//GitHubにアップする
 jQuery.noConflict();
 (function($) {
    "use strict";
